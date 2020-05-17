@@ -1,0 +1,11 @@
+Enter following commands on PiTerminal
+
+sudo apt update
+sudo apt install git
+
+Check Version:
+
+git --version    
+
+Linuxize link: 
+https://linuxize.com/post/how-to-install-git-on-raspberry-pi/
